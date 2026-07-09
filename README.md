@@ -25,11 +25,9 @@ This GitHub profile showcases my learning journey, practice projects, and web de
 
 ---
 
-## GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Khan-15&theme=dark&show_icons=true&hide_border=false&count_private=false" alt="Ahmed's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Khan-15&theme=dark&hide_border=false&layout=compact" alt="Ahmed's Top Languages" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Ahmed-Khan-15&theme=dark&hide_border=false" alt="Ahmed's GitHub Streak" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ahmed-Khan-15&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Ahmed-Khan-15&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmed-Khan-15&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
